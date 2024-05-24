@@ -397,3 +397,7 @@ background-image: url(Photos/Фото\ кошки.jpg);
 .Review-image{
     width: 100%;
 }
+.footer{
+    background:  rgba(113, 161, 214, 0.22);
+    width: 100%;
+}
